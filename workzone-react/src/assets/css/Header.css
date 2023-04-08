@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 48px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 275px;
+    height: 50px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    line-height: 50px;
+    margin-right: 20px;
+}

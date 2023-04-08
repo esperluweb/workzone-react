@@ -1,0 +1,21 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10vh 30vw;
+    background-color: #1c8adb;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 100;
+}

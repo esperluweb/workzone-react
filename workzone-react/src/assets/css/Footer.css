@@ -1,0 +1,7 @@
+footer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 2vh 48px;
+}
