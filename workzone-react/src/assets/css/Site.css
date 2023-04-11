@@ -1,0 +1,57 @@
+.site {
+    width: calc(25% - 20px);
+    box-sizing: border-box;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    /* margin: 10px; */
+}
+
+.site h2 {
+    font-size: 24px;
+}
+
+.site .wp-logo {
+    width: 26px;
+    height: 26px;
+}
+
+.site .buttons {
+    padding:24px;
+}
+
+.site a.primary {
+    border-radius: .25rem;
+    text-decoration: none;
+    color: #0d6efd;
+    padding: 10px;
+    border: 1px solid #0d6efd;
+}
+
+.site a.primary:hover {
+    color: white;
+    background-color: #0d6efd;
+    transition: ease-in-out 0.15s;
+}
+
+.site a.secondary {
+    border-radius: .25rem;
+    text-decoration: none;
+    color: #6c757d;
+    padding: 10px;
+    border: 1px solid #6c757d;
+    margin-left:10px;
+}
+
+.site a.secondary:hover {
+    color: white;
+    background-color: #6c757d;
+    transition: ease-in-out 0.15s;
+}

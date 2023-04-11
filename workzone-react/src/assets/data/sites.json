@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Metaviti",
+        "folder": "metaviti",
+        "wordpress": true
+    },
+    {
+        "id": 2,
+        "name": "Cartophiles",
+        "folder": "ccy",
+        "wordpress": true
+    },
+    {
+        "id": 3,
+        "name": "Vino Up - Plus",
+        "folder": "vinoplus",
+        "wordpress": true
+    },
+    {
+        "id": 4,
+        "name": "Vino Up - Olivier Morin",
+        "folder": "morin",
+        "wordpress": true
+    },
+    {
+        "id": 5,
+        "name": "Un air de famille",
+        "folder": "camille",
+        "wordpress": true
+    },
+    {
+        "id": 7,
+        "name": "Escalia Formation",
+        "folder": "escalia-formation",
+        "wordpress": true
+    },
+    {
+        "id": 8,
+        "name": "Boutique",
+        "folder": "boutique",
+        "wordpress": true
+    },
+    {
+        "id": 9,
+        "name": "Template",
+        "folder": "template",
+        "wordpress": true
+    },
+    {
+        "id": 10,
+        "name": "FICAP Maintenance",
+        "folder": "ficapmaintenance",
+        "wordpress": true
+    }
+]

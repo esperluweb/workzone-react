@@ -2,7 +2,16 @@
     background-color: #f8f9fa;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    box-sizing: border-box; 
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.sites div {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
     box-sizing: border-box;
-    padding: 10vh 48px;
+    gap: 10px;
 }
